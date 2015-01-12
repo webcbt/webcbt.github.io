@@ -3,4 +3,7 @@ layout: page
 title: Demo
 ---
 
-Coming soon...
+[Demo](http://webcbt-cxtest.rhcloud.com)
+
+Username : admin
+Password : admin
