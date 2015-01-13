@@ -3,7 +3,7 @@ layout: page
 title: Download
 ---
 
-Download the latest stable verion (v1.0) of WebCBT :
+Download the latest stable version (v1.0) of WebCBT :
 
 [Download WebCBT.zip](https://github.com/webcbt/webcbt/releases/download/v1.0/webcbt-v1.0.zip)
 
@@ -11,4 +11,4 @@ Download the latest stable verion (v1.0) of WebCBT :
 
 Full source code of WebCBT is hosted at [https://github.com/webcbt/webcbt](https://github.com/webcbt/webcbt)
 
-Check the "Support" section for more information on installation and usage.
+<p class="message">Check the <b>"Support"</b> section for more information on installation and usage.</p>
