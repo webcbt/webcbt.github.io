@@ -1,6 +1,6 @@
 # Released under MIT License
 
-WebCBT website content license notice.
+WebCBT - Website content license notice.
 
 http://webcbt.github.io
 
