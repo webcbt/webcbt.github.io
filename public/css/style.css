@@ -1,6 +1,29 @@
 .sidebar-about h1 {
 	text-decoration: none;
 }
+
 .sidebar-about h1 a:hover {
 	text-decoration: none;
 }
+
+.text-center {
+	text-align: center;
+}
+
+.table-screenshot {
+	border: none;
+}
+
+.table-screenshot td {
+	border: none;
+}
+
+tbody tr:nth-child(2n+1) td, tbody tr:nth-child(2n+1) th {
+	background-color: #FFFFFF;
+}
+
+.table-screenshot img {
+	margin: 0 0 0 0;
+}
+
+
